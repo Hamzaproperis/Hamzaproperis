@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis un jeune etudiant de 25 ans qui a fait un Master 2 en traitement du signal et des images, et un Master 1 en Recherche operationnelle, tout ça accompagné d'une license en mathematiques, j'aime coder, et j'aime decouvrir les nouvelles technologie et toujours rester fasciné par l'avancée humaine dans ce domaine.
+Nothing to talk about !
 
 
 ## 🌐 Socials:
